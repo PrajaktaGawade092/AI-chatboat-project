@@ -1,5 +1,6 @@
 # 🤖 AI Chatbot using Hugging Face API
 
+🔗 **Live Demo:** [Click here to try the chatbot](https://your-streamlit-url-here.streamlit.app)
 A simple conversational AI chatbot built with Streamlit and Hugging Face's Inference API, featuring prompt engineering techniques like custom system prompts and few-shot examples.
 
 ## Features
